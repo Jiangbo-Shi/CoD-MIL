@@ -1,3 +1,1 @@
-# CoD-MIL
-
-The code will be released soon, once the paper is accepted.
+# CoD-MIL: Chain-of-diagnosis Prompting Multiple Instance Learning for Whole Slide Image Classification [Updating]
